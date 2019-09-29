@@ -1,15 +1,15 @@
 # Frontend Masters Bootcamp
 
-### This repository contains all the files created in the lessons from Day 1.
+### This repository contains all the files created in the lessons from this bootcamp.
 
 #### Link to: [Bootcamp Page](https://frontendmasters.com/bootcamp/introduction-html/creating-your-first-html-page/).
 
 ## File list:
 
-### 1 index.html
-### 2 hobbies.html
-### 3 book.html
-### 4 about.html
+### 1 Day 1/index.html
+### 2 Day 1/hobbies.html
+### 3 Day 1/book.html
+### 4 Day 1/about.html
 
 > You can see it live [here](http://iurianu.rocks/wp-content/uploads/projects/fem/day1/)
 
